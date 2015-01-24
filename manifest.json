@@ -1,0 +1,15 @@
+{
+  "name": "Twitter Wide",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "Twitter Wide",
+  "content_scripts": [
+    {
+      "matches": ["*://twitter.com/*"],
+      "js": ["jquery-1.7.2.min.js", "onload.js"]
+    }
+  ],
+  "permissions": [
+    "tabs", "*://twitter.com/*"
+  ]
+}
