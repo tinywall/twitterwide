@@ -12,7 +12,7 @@ The result of this plugin as shown in following snapshot.
 ![output](/Screenshots/Step 5.png "Step 5")
 
 
-Steps to install darkgoogle plugin in chrome browser.
+Steps to install twitterwide plugin in chrome browser.
 
 Step 1:
 click customize and control google chrome tab(right top in ur chrome browser)->go to Settings as show in follwing snapshot.
@@ -27,7 +27,7 @@ After enable developer mode. click on load unpack extension as shown in followin
 ![Step 1](/Screenshots/Step 3.png "Step 2")
 
 Step 4:
-It will open up a file broswer, navigate to your source of darkgoogle folder and select.
+It will open up a file broswer, navigate to your source of twitterwide folder and select.
 ![Step 4](/Screenshots/Step 4.png "Step 2")
 
 Step 6:
